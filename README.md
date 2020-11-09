@@ -1,7 +1,7 @@
 ### Hi there <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 This is the place where I opensource stuff and break things :rofl:
 
-- 💬 Ask me about anything related to С++ or stl/boost/Qt
+- 💬 Ask me about anything related to С++ or stl/boost
 - 📫 How to reach me: [@reficul0](https://vk.com/luci_ref)
 
 
