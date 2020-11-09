@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 💬 Ask me about anything related to С++ or stl/boost
-- 📫 How to reach me: [@reficul0](https://vk.com/luci_ref)
+- 📫 How to reach me: [@reficul0](https://vk.com/reficul0)
 
 
 **Languages and Tools:**  
