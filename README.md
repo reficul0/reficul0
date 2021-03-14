@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 💬 Ask me about anything related to С++(stl/boost, multithreading)
-- 📫 How to reach me: [vk](https://vk.com/reficul0), [linkedin](https://www.linkedin.com/in/reficul0)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/reficul0), [vk](https://vk.com/reficul0)
 
 
 **Languages and Tools:**  
