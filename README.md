@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, i'm Evgenij </h1>
+<h1 align="center">Hi there 👋, i'm Evgenij</h1>
 <h3 align="center">A passionate C++ developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reficul0&label=Profile%20views&color=0e75b6&style=flat" alt="reficul0" /> </p>
