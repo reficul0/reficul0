@@ -13,6 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Продление жизни временных значений в С++: рецепты и подводные камни](https://habr.com/ru/post/669474/)
+- [Гибкая индексация элементов в контейнере на С++ и при чём тут Boost.MultiIndex](https://habr.com/ru/post/667434/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
