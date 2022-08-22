@@ -15,4 +15,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://habr.com/ru/rss/users/reficul0/posts/?fl=ru"
+                feed_list: "https://habr.com/ru/rss/users/reficul0/posts/?fl=ru&with_hubs=true:&with_tags=true:"
