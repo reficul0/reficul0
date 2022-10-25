@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, i'm Evgenij</h1>
+<h1 align="center">Hi there 👋, i'm Evgenii</h1>
 <h3 align="center">A passionate C++ developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reficul0&label=Profile%20views&color=0e75b6&style=flat" alt="reficul0" /> </p>
@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Продление жизни временных значений в С++: рецепты и подводные камни](https://habr.com/ru/post/669474/)
-- [Гибкая индексация элементов в контейнере на С++ и при чём тут Boost.MultiIndex](https://habr.com/ru/post/667434/)
+- [[RU] Extending the lifetime of temporary values in C++: recipes and pitfalls](https://habr.com/ru/post/669474/)
+- [[RU] Flexible indexing of container's elements in C++ and what does Boost.MultiIndex have to do with it](https://habr.com/ru/post/667434/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
