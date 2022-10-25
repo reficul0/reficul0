@@ -13,8 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [[RU] Extending the lifetime of temporary values in C++: recipes and pitfalls](https://habr.com/ru/post/669474/)
-- [[RU] Flexible indexing of container's elements in C++ and what does Boost.MultiIndex have to do with it](https://habr.com/ru/post/667434/)
+- [Продление жизни временных значений в С++: рецепты и подводные камни](https://habr.com/ru/post/669474/)
+- [Гибкая индексация элементов в контейнере на С++ и при чём тут Boost.MultiIndex](https://habr.com/ru/post/667434/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
