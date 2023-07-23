@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reficul0" alt="reficul0" /></a> </p>
 
-- 🌱 I’m currently learning **Testing automation**
-
 - 📝 I regularly write articles on [https://habr.com/ru/users/reficul0/posts/](https://habr.com/ru/users/reficul0/posts/)
 
 - 💬 Ask me about anything related to **С++(stl/boost, multithreading)**
