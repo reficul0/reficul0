@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Глубина кролечьей норы: бинарная граница и ABI C++](https://habr.com/ru/articles/710658/?utm_campaign=710658&utm_source=habrahabr&utm_medium=rss)
 - [Продление жизни временных значений в С++: рецепты и подводные камни](https://habr.com/ru/articles/669474/?utm_campaign=669474&utm_source=habrahabr&utm_medium=rss)
 - [Гибкая индексация элементов в контейнере на С++ и при чём тут Boost.MultiIndex](https://habr.com/ru/articles/667434/?utm_campaign=667434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
